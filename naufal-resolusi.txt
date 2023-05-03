@@ -5,3 +5,4 @@ Naufal resolusi
 - Belajar hugeme
 - Belajar tensorflow
 - Belajar kali linux
+- Belajar linux
