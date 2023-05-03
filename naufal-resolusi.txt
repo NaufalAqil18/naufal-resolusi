@@ -1,0 +1,7 @@
+Naufal resolusi
+- Belajar python
+- Belajar pytorch
+- Belajar keras
+- Belajar hugeme
+- Belajar tensorflow
+- Belajar kali linux
