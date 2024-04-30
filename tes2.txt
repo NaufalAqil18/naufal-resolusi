@@ -1,1 +1,2 @@
 ini adalah resolusi kedua dari tes ini
+ini adalah tambahan untuk tes2.txt
