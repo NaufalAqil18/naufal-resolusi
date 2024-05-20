@@ -1,4 +1,5 @@
 ini adalah resolusi kedua dari tes ini
 ini adalah tambahan untuk tes2.txt
 ini adalah tes untuk conflict
+ini tes untuk vscode github
 
